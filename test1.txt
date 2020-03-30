@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 5855-8FE7
+
+ Directory of C:\Users\BANSALA4\Desktop\MyGitFirstProject
+
+03/30/2020  05:28 PM    <DIR>          .
+03/30/2020  05:28 PM    <DIR>          ..
+03/30/2020  05:28 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  130,777,038,848 bytes free
